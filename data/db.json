@@ -1,0 +1,55 @@
+{
+    "careers": [
+      {
+        "id": 1,
+        "title": "Senior React Developer",
+        "salary": "5000$",
+        "location": "London, UK",
+        "detail" : "We need a Senior React Developer to perform any tasks as we want, and must know how to work in groups, and has a basic knowledge about fetching API's"
+      },
+      {
+        "id": 2,
+        "title": "Plumber",
+        "salary": "1200$",
+        "location": "Bowser's Castle",
+        "detail" : "Maintains and repairs general plumbing components to include toilets, urinals, faucets, hose bibs, and drains. Installs, repairs, or replaces domestic hot and cold water lines. Repairs and replaces steam to hot water exchangers for major building heating systems and pools"
+
+      },
+      {
+        "id": 3,
+        "title": "Gym Leader",
+        "salary": "980$",
+        "location": "Kanto Region",
+        "detail" : "The main job of a Gym Leader is to test Trainers and their Pokémon so that they are strong and resourceful enough to take the Pokémon League challenge. If a Trainer defeats a Gym Leader in battle, then the Trainer earns that Gym's Badge."
+      },
+      {
+        "id": 4,
+        "title": "Vue Developer",
+        "salary": "3000$",
+        "location": "Liverpool, UK",
+        "detail" : "Vue. js developer responsibilities include writing user-side logic with JavaScript, developing user-facing web applications and components. They also need to write robust, secure, scalable code and coordinate with other software developers and project managers."
+        
+      },
+      {
+        "id": 5,
+        "title": "Tutorial Maker",
+        "salary": "2400$",
+        "location": "Manchester, UK",
+        "detail" : "A tutorial is a teaching session given to one student or a small group of students. If you are stuck in a class, you could use a tutorial. Teachers lead classes, but tutors are educators who also help students, usually one-on-one. Tutors don't give grades: they just try to help or coach students."
+      },
+      {
+        "id": 6,
+        "title": "Website Manager",
+        "salary": "1430$",
+        "location": "Berlin, Germany",
+        "detail" : "A website manager oversees the day-to-day maintenance and administration of an organization's website. They perform a range of IT, marketing and website development tasks to ensure organizations have functional websites that represent them well and users can navigate easily."
+      },
+      {
+        "id": 7,
+        "title": "Food Tester",
+        "salary": "520$",
+        "location": "London, UK",
+        "detail" : "A website manager oversees the day-to-day maintenance and administration of an organization's website. They perform a range of IT, marketing and website development tasks to ensure organizations have functional websites that represent them well and users can navigate easily."
+      }
+    ]
+  }
