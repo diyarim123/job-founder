@@ -2,7 +2,6 @@ import { useLoaderData, useParams } from "react-router-dom";
 
 
 export default function CareerDetail() {
-    const { id } = useParams();
     const CareerDetailData = useLoaderData();
 
 
@@ -17,11 +16,10 @@ export default function CareerDetail() {
 }
 
 // loader function
-
 export const careerDetailsLoader = async ({params}) => {
     const { id } = params;
 
-    const response = await fetch("http://localhost:8000/careers/" + id);
+    const response = await fetch("http://localhost:3000/careers/" + id);
 
     if(!response.ok) {
       throw new Error("Couldn't find that career")
